@@ -1,0 +1,169 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Este archivo contiene escenarios de prueba de la web de openwebinars.",
+    "line": 1,
+    "id": "este-archivo-contiene-escenarios-de-prueba-de-la-web-de-openwebinars.",
+    "tags": [],
+    "uri": "src\\Features\\OpenWebinars.feature",
+    "elements": [
+      {
+        "id": "este-archivo-contiene-escenarios-de-prueba-de-la-web-de-openwebinars.;realizar-varias-busquedas",
+        "keyword": "Scenario",
+        "line": 34,
+        "name": "realizar varias busquedas",
+        "tags": [
+          {
+            "name": "@todo",
+            "line": 26
+          },
+          {
+            "name": "@busqueda",
+            "line": 26
+          },
+          {
+            "name": "@depurar",
+            "line": 26
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 28,
+            "name": "el usuario abre la web de angular",
+            "match": {
+              "location": "src\\step_definitions\\mysteps.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1747000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "la web abierta es la correcta",
+            "match": {
+              "location": "src\\step_definitions\\mysteps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 30,
+            "name": "buscamos la palabra johan",
+            "match": {
+              "location": "src\\step_definitions\\mysteps.js:39"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5494000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "..\\node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "este-archivo-contiene-escenarios-de-prueba-de-la-web-de-openwebinars.;realizar-varias-busquedas",
+        "keyword": "Scenario",
+        "line": 35,
+        "name": "realizar varias busquedas",
+        "tags": [
+          {
+            "name": "@todo",
+            "line": 26
+          },
+          {
+            "name": "@busqueda",
+            "line": 26
+          },
+          {
+            "name": "@depurar",
+            "line": 26
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 28,
+            "name": "el usuario abre la web de angular",
+            "match": {
+              "location": "src\\step_definitions\\mysteps.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1164000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "la web abierta es la correcta",
+            "match": {
+              "location": "src\\step_definitions\\mysteps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 25000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 30,
+            "name": "buscamos la palabra angular",
+            "match": {
+              "location": "src\\step_definitions\\mysteps.js:39"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4081000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "..\\node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "91.0.4472.77"
+      },
+      "device": "",
+      "platform": {
+        "name": "",
+        "version": ""
+      }
+    }
+  }
+]

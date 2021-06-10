@@ -1,0 +1,238 @@
+[
+  {
+    "description": "realizar varias busquedas",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "events": [
+      {
+        "emitterEvent": "testPass",
+        "name": "Given el usuario abre la web de angular",
+        "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+        "durationMillis": 1747000000,
+        "sourceLocation": {
+          "filePath": "src\\Features\\OpenWebinars.feature",
+          "line": 28,
+          "column": 13
+        },
+        "progress": {
+          "step": 1,
+          "steps": 3
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then la web abierta es la correcta",
+        "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+        "durationMillis": 22000000,
+        "sourceLocation": {
+          "filePath": "src\\Features\\OpenWebinars.feature",
+          "line": 29,
+          "column": 14
+        },
+        "progress": {
+          "step": 2,
+          "steps": 3
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "When buscamos la palabra johan",
+        "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+        "durationMillis": 5494000000,
+        "sourceLocation": {
+          "filePath": "src\\Features\\OpenWebinars.feature",
+          "line": 30,
+          "column": 14
+        },
+        "progress": {
+          "step": 3,
+          "steps": 3
+        }
+      }
+    ],
+    "emitToTestRunner": [
+      [
+        "testPass",
+        {
+          "name": "Given el usuario abre la web de angular",
+          "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+          "durationMillis": 1747000000,
+          "sourceLocation": {
+            "filePath": "src\\Features\\OpenWebinars.feature",
+            "line": 28,
+            "column": 13
+          },
+          "progress": {
+            "step": 1,
+            "steps": 3
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then la web abierta es la correcta",
+          "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+          "durationMillis": 22000000,
+          "sourceLocation": {
+            "filePath": "src\\Features\\OpenWebinars.feature",
+            "line": 29,
+            "column": 14
+          },
+          "progress": {
+            "step": 2,
+            "steps": 3
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "When buscamos la palabra johan",
+          "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+          "durationMillis": 5494000000,
+          "sourceLocation": {
+            "filePath": "src\\Features\\OpenWebinars.feature",
+            "line": 30,
+            "column": 14
+          },
+          "progress": {
+            "step": 3,
+            "steps": 3
+          }
+        }
+      ]
+    ],
+    "duration": 7268000000
+  },
+  {
+    "description": "realizar varias busquedas",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "events": [
+      {
+        "emitterEvent": "testPass",
+        "name": "Given el usuario abre la web de angular",
+        "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+        "durationMillis": 1164000000,
+        "sourceLocation": {
+          "filePath": "src\\Features\\OpenWebinars.feature",
+          "line": 28,
+          "column": 13
+        },
+        "progress": {
+          "step": 1,
+          "steps": 3
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then la web abierta es la correcta",
+        "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+        "durationMillis": 25000000,
+        "sourceLocation": {
+          "filePath": "src\\Features\\OpenWebinars.feature",
+          "line": 29,
+          "column": 14
+        },
+        "progress": {
+          "step": 2,
+          "steps": 3
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "When buscamos la palabra angular",
+        "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+        "durationMillis": 4081000000,
+        "sourceLocation": {
+          "filePath": "src\\Features\\OpenWebinars.feature",
+          "line": 30,
+          "column": 14
+        },
+        "progress": {
+          "step": 3,
+          "steps": 3
+        }
+      }
+    ],
+    "emitToTestRunner": [
+      [
+        "testPass",
+        {
+          "name": "Given el usuario abre la web de angular",
+          "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+          "durationMillis": 1164000000,
+          "sourceLocation": {
+            "filePath": "src\\Features\\OpenWebinars.feature",
+            "line": 28,
+            "column": 13
+          },
+          "progress": {
+            "step": 1,
+            "steps": 3
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then la web abierta es la correcta",
+          "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+          "durationMillis": 25000000,
+          "sourceLocation": {
+            "filePath": "src\\Features\\OpenWebinars.feature",
+            "line": 29,
+            "column": 14
+          },
+          "progress": {
+            "step": 2,
+            "steps": 3
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "When buscamos la palabra angular",
+          "category": "Este archivo contiene escenarios de prueba de la web de openwebinars.: realizar varias busquedas",
+          "durationMillis": 4081000000,
+          "sourceLocation": {
+            "filePath": "src\\Features\\OpenWebinars.feature",
+            "line": 30,
+            "column": 14
+          },
+          "progress": {
+            "step": 3,
+            "steps": 3
+          }
+        }
+      ]
+    ],
+    "duration": 5273000000
+  }
+]
