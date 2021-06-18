@@ -1,5 +1,5 @@
 Feature: Este archivo contiene escenarios de prueba de la web de openwebinars.
-        @todo @abrir
+        @todo @abrir @depurar
         Scenario: abrir la web de Angular.
             Given el usuario abre la web de angular
              Then la web abierta es la correcta
@@ -10,7 +10,7 @@ Feature: Este archivo contiene escenarios de prueba de la web de openwebinars.
              When hacemos click en la seccion EVENTS
              Then se aabre la seccion de EVENTS
 
-        @todo @abrir
+        @todo @abrir @depurar
         Scenario Outline: abrir las distintas secciones de la web de angular
             Given el usuario abre la web de angular
              Then la web abierta es la correcta
@@ -32,4 +32,5 @@ Feature: Este archivo contiene escenarios de prueba de la web de openwebinars.
         Examples:
                   | palabra |
                   | johan   |
+                  | desarrollo   |
                   | angular |

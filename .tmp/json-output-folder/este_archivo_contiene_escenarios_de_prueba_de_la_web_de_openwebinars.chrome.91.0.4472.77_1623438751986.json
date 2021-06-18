@@ -1,0 +1,281 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Este archivo contiene escenarios de prueba de la web de openwebinars.",
+    "line": 1,
+    "id": "este-archivo-contiene-escenarios-de-prueba-de-la-web-de-openwebinars.",
+    "tags": [],
+    "uri": "e2e-tests\\src\\Features\\OpenWebinars.feature",
+    "elements": [
+      {
+        "id": "este-archivo-contiene-escenarios-de-prueba-de-la-web-de-openwebinars.;abrir-las-distintas-secciones-de-la-web-de-angular",
+        "keyword": "Scenario",
+        "line": 22,
+        "name": "abrir las distintas secciones de la web de angular",
+        "tags": [
+          {
+            "name": "@todo",
+            "line": 13
+          },
+          {
+            "name": "@abrir",
+            "line": 13
+          },
+          {
+            "name": "@depurar",
+            "line": 13
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "el usuario abre la web de angular",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1303000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "la web abierta es la correcta",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "abrir la seccion features",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1754000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "se abre la seccion features",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:36"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "este-archivo-contiene-escenarios-de-prueba-de-la-web-de-openwebinars.;abrir-las-distintas-secciones-de-la-web-de-angular",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "abrir las distintas secciones de la web de angular",
+        "tags": [
+          {
+            "name": "@todo",
+            "line": 13
+          },
+          {
+            "name": "@abrir",
+            "line": 13
+          },
+          {
+            "name": "@depurar",
+            "line": 13
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "el usuario abre la web de angular",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1562000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "la web abierta es la correcta",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 56000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "abrir la seccion resources",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1706000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "se abre la seccion resources",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:36"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "este-archivo-contiene-escenarios-de-prueba-de-la-web-de-openwebinars.;abrir-las-distintas-secciones-de-la-web-de-angular",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "abrir las distintas secciones de la web de angular",
+        "tags": [
+          {
+            "name": "@todo",
+            "line": 13
+          },
+          {
+            "name": "@abrir",
+            "line": 13
+          },
+          {
+            "name": "@depurar",
+            "line": 13
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "el usuario abre la web de angular",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1884000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "la web abierta es la correcta",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "abrir la seccion events",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1391000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "se abre la seccion events",
+            "match": {
+              "location": "e2e-tests\\src\\step_definitions\\mysteps.js:36"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "91.0.4472.77"
+      },
+      "device": "",
+      "platform": {
+        "name": "",
+        "version": ""
+      }
+    }
+  }
+]
